@@ -18,5 +18,5 @@ Python, PyTorch, TensorFlow, OpenCV, FastAPI, Flask, Django, SQL, Docker, C++, C
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/george-emil-165a3127b/)
-- [Portfolio](https://georgeemil787.github.io/George-Emil-protfolio/)
+- [Portfolio](https://georgeemil787.github.io/George-Emil-portfolio/)
 - Email: georgeemil030@gmail.com
